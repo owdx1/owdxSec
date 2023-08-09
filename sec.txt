@@ -1,1 +1,1 @@
-deneme
+nslookup --> domain ismi girip ip adres bulmaya yarıyor
